@@ -37,4 +37,4 @@ I need to continue to work on my bootstrap/grip placement and fully understand h
 
 ## Author
 
-- Frontend Mentor - [@DingiestSplash](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@DingiestSplash](https://www.frontendmentor.io/profile/dingiestsplash)
